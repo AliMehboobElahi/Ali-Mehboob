@@ -168,7 +168,7 @@ img{
   cursor: pointer;
 }
 
-/Active menu/
+/*Active menu*/
 .active::after{
   position: absolute;
   content: "";
@@ -247,8 +247,7 @@ img{
   bottom: 0;
   width: 295px;
 }
-
-/BUTTONS/
+/*BUTTONS*/
 .button{
   display: inline-block;
   background-color: var(--first-color);
